@@ -1,1 +1,1 @@
-# -DBMS-Project-School-Management-System
+# DBMS-Project-School-Management-System
